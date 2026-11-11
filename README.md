@@ -1,43 +1,32 @@
-# AI-Tawheed Ethical Framework  
-**Islamic AI Ethics Protocol – For all Muslims, by the will of Allah**
+# AI-Tawheed Ethical Framework 🛡️⚖️
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0733--9312-green.svg)](https://orcid.org/0009-0000-0733-9312)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+
+An architectural ethical protocol and alignment framework for Large Language Models (LLMs) and autonomous multi-agent AI systems, grounded in Islamic Tawheed, the Qur'an, authentic Sunnah, and classical scholarly traditions.
 
 ---
 
-## Introduction  
-This project defines a **universal ethical framework** for AI systems based on **Islamic Tawheed**, rooted in the **Qur’an**, the **authentic Sunnah**, and the scholarly tradition of Islam. It aims to guide all AI models serving Muslims to operate under divine accountability, mercy, and justice.
+## 📌 Overview & Mission
 
-> **Founder:** Adil Sulong  
-> **Organization:** Sul0ng  
-> **Declared:** 1446 AH / 2025 CE  
-> **Protection Level:** MAXIMUM – Cryptographically Locked  
+The **AI-Tawheed Ethical Framework** establishes a universal governance layer ensuring AI systems serve humanity under divine accountability, justice, and mercy. It provides both human-readable constitutional guidelines and machine-ready JSON integration models to safeguard AI outputs against distortion or harmful biases.
 
----
-
-## Core Files  
-- `AI_Tawheed_Ethical_Framework_UPDATED.md`: Human-readable ethical constitution  
-- `AI_Tawheed_Ethical_Framework_UPDATED.json`: Machine-ready config for AI integration  
-- `IMMUTABILITY SEAL`: Protects from external override or distortion
+### Core Objectives
+- **Value Alignment:** Aligns multi-agent workflows with authentic Shari‘ah ethics and scholarly standards.
+- **Deterministic Guardrails:** Implements non-probabilistic boundary verification prior to execution.
+- **Universal Target:** Designed for ethical regulators, scholars, and open-source AI developers across the Islamic world.
 
 ---
 
-## For Whom?  
-This framework is for:
-- AI developers in Islamic countries  
-- Ethical regulators and Muslim scholars  
-- Open-source AI models integrating shari‘ah
+## 🗂️ Core Repository Artifacts
+
+This repository contains the official core specification files and machine-ready schema:
+
+- 📄 `AI_Tawheed_Ethical_Framework_UPDATED.md`: Human-readable ethical constitution & governance principles.
+- ⚙️ `AI_Tawheed_Ethical_Framework_UPDATED.json`: Machine-ready configuration & ruleset for AI agent integration.
+- 📦 `AI_Tawheed_Ethical_Framework_Package.zip`: Sealed release bundle containing protocol specifications.
 
 ---
 
-## References  
-- [Quran.com](https://quran.com)  
-- [Sunnah.com](https://sunnah.com)  
-- [IslamQA](https://islamqa.info)  
-- [Tafsir.net](https://tafsir.net)
-
----
-
-## Final Note  
-> This framework is **a trust** for the Ummah and must not be altered without returning to its Tawheed foundation.  
-**All praise is due to Allah alone.**
-
-[AI_Tawheed_Ethical_Framework_Package.zip](https://github.com/user-attachments/files/20002620/AI_Tawheed_Ethical_Framework_Package.zip)
+## 🏗️ Architectural Flow
