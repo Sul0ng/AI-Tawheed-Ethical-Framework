@@ -30,3 +30,58 @@ This repository contains the official core specification files and machine-ready
 ---
 
 ## 🏗️ Architectural Flow
+
+[User Prompt / Agent Request]
+│
+▼
+┌────────────────────────┐
+│  Tawheed Ethical Layer │◄─── Checks: JSON Rules & Shari'ah Compliance
+└────────────────────────┘
+│
+[ Validated Pass ]
+│
+▼
+┌────────────────────────┐
+│ Multi-Agent Execution  │
+└────────────────────────┘
+
+
+---
+
+## 📚 Scholarly & Primary References
+
+The framework relies on verified primary sources and scholarly databases:
+- [Quran.com](https://quran.com) — Primary Textual Sources
+- [Sunnah.com](https://sunnah.com) — Authentic Prophetic Traditions (Hadith)
+- [Tafsir.net](https://tafsir.net) — Classical & Contemporary Exegesis
+- [IslamQA](https://islamqa.info) — Scholarly Jurisprudential Reference
+
+---
+
+## 🛠️ Tech Stack & Requirements
+
+- **Languages & Specifications:** Python 3.10+, JSON Schema, Markdown
+- **Deployment & Ops:** Docker, Git, Bash
+- **Core Domain:** AI Ethics Protocols, Multi-Agent Architecture, Guardrail Engineering
+
+---
+
+## 📜 Citation & Academic Verification
+
+If you cite or integrate this protocol into academic research, technical papers, or open-source software, please use the following metadata:
+
+- **Author:** Adil Sulong
+- **ORCID iD:** [0009-0000-0733-9312](https://orcid.org/0009-0000-0733-9312)
+- **Repository:** `Sul0ng/AI-Tawheed-Ethical-Framework`
+- **Declared:** 1446 AH / 2025 CE
+
+---
+
+## 📬 Contact & Author Profile
+
+**Adil Sulong** — AI Systems Architect & Automation Specialist  
+📍 Makkah, KSA
+
+- 💼 **LinkedIn:** [Adil Sulong](https://www.linkedin.com/in/sul0ng/)
+- 🐙 **GitHub Profile:** [@Sul0ng](https://github.com/Sul0ng)
+- 🆔 **ORCID:** [0009-0000-0733-9312](https://orcid.org/0009-0000-0733-9312)
